@@ -1,0 +1,19 @@
+d:\documents and settings\visual studio 2010\Projects\Moo Moo\Moo Moo\bin\Debug\Moo Moo.exe
+d:\documents and settings\visual studio 2010\Projects\Moo Moo\Moo Moo\bin\Debug\Moo Moo.pdb
+d:\documents and settings\visual studio 2010\Projects\Moo Moo\Moo Moo\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents and settings\visual studio 2010\Projects\Moo Moo\Moo Moo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\documents and settings\visual studio 2010\Projects\Moo Moo\Moo Moo\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents and settings\visual studio 2010\Projects\Moo Moo\Moo Moo\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents and settings\visual studio 2010\Projects\Moo Moo\Moo Moo\obj\x86\Debug\Moo Moo.exe
+d:\documents and settings\visual studio 2010\Projects\Moo Moo\Moo Moo\obj\x86\Debug\Moo Moo.pdb
+d:\documents and settings\visual studio 2010\Projects\Moo Moo\Moo Moo\obj\x86\Debug\WindowsFormsApplication1.FormCows.resources
+d:\documents and settings\visual studio 2010\Projects\Moo Moo\Moo Moo\obj\x86\Debug\WindowsFormsApplication1.AboutBox1.resources
+D:\nbu\New Folder\Moo Moo\Moo Moo\obj\x86\Debug\Moo Moo.exe
+D:\nbu\New Folder\Moo Moo\Moo Moo\obj\x86\Debug\Moo Moo.pdb
+D:\nbu\New Folder\Moo Moo\Moo Moo\bin\Debug\Moo Moo.exe
+D:\nbu\New Folder\Moo Moo\Moo Moo\bin\Debug\Moo Moo.pdb
+D:\nbu\New Folder\Moo Moo\Moo Moo\obj\x86\Debug\Moo Moo.csprojResolveAssemblyReference.cache
+D:\nbu\New Folder\Moo Moo\Moo Moo\obj\x86\Debug\WindowsFormsApplication1.AboutBox1.resources
+D:\nbu\New Folder\Moo Moo\Moo Moo\obj\x86\Debug\WindowsFormsApplication1.FormCows.resources
+D:\nbu\New Folder\Moo Moo\Moo Moo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\nbu\New Folder\Moo Moo\Moo Moo\obj\x86\Debug\Moo Moo.csproj.GenerateResource.Cache
